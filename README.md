@@ -55,5 +55,10 @@
 
 ---
 
-## 🙋‍♂️ Acknowledgements
-- **Developed by Ayman Fikry bin Asmajuda as part of an academic assignment under the Structured Programming course.**
+## 🙋‍♂️ About This Project
+
+Developed by **Ayman Fikry bin Asmajuda** as part of an academic coursework under the **Structured Programming** subject.
+
+If you have any questions, feel free to reach out or open an issue. Thank you for visiting!
+
+---
